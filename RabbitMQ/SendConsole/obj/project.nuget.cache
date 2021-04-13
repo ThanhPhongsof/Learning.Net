@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBIQmLxO508iEndClPC4t+k5wsiDETPEx1B3XQiLGmE4JrF6oyC52EwPjqqFfmqXHzIIaSqFYZ+iBjqcQYz0Tw==",
+  "success": true,
+  "projectFilePath": "D:\\Learning.Net\\RabbitMQ\\SendConsole\\SendConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bong\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Bong\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Bong\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
